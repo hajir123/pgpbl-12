@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Hajir",
+      "nim": "21/481498/SV/19804",
+      "jeniskelamin": "Laki-laki",
+      "kelas": "B",
+      "icon": "coffee",
+      "color": "F3B664"
+    },
+    {
+      "nama": "Hajir",
+      "nim": "21/481498/SV/19804",
+      "jeniskelamin": "Laki-laki",
+      "kelas": "B",
+      "icon": "coffee",
+      "color": "#F3B664",
+      "id": 2
+    },
+    {
+      "nama": "hajir",
+      "nim": "ffff444",
+      "kelas": "b",
+      "jeniskelamin": "Laki - laki",
+      "color": "#F3B664",
+      "icon": "coffee",
+      "id": 3
+    }
+  ]
+}
