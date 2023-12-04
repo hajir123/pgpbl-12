@@ -112,8 +112,8 @@ const styles = StyleSheet.create({
       flexDirection: 'row',
       padding: 20,
       borderRadius: 10,
-      backgroundColor: 'white',
-      shadowColor: '#000',
+      backgroundColor: 'orange',
+      shadowColor: '#EC8F5E',
       shadowOffset: {
         width: 1,
         height: 1,
