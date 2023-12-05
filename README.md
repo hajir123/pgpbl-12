@@ -72,8 +72,60 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 
 To learn more about React Native, take a look at the following resources:
 
+
+
+
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+- A. Nama Produk : Tracer Study SIG (TASIG)
+B. Deskripsi Produk :  Tracer Study menggunakan React Native didasarkan pada kebutuhan mendesak untuk memahami dan melacak perjalanan karir para alumni setelah menyelesaikan pendidikan mereka. Dalam era dinamis di mana tantangan dan peluang di dunia kerja terus berkembang, institusi pendidikan memiliki tanggung jawab untuk memastikan bahwa kurikulum mereka relevan dan mempersiapkan siswa dengan keterampilan yang diperlukan untuk sukses di lapangan pekerjaan. Tracer Study menjadi instrumen yang sangat penting dalam mendapatkan wawasan tentang sejauh mana lulusan dapat berhasil memasuki dan berkontribusi dalam dunia kerja. Melalui aplikasi Tracer Study yang dikembangkan dengan menggunakan teknologi React Native, kami bertujuan untuk menciptakan sarana yang nyaman dan efektif bagi para alumni untuk berbagi informasi tentang pengalaman kerja mereka.
+C. Komponen Pembangun Produk : Fitur utama aplikasi mencakup pembuatan profil alumni yang mendalam, yang mencakup pengalaman kerja, prestasi, dan keterampilan yang diperoleh. Aplikasi juga akan mengirimkan survei periodik kepada alumni untuk mendapatkan pembaruan tentang status pekerjaan dan perkembangan karir mereka. Data yang terkumpul kemudian dapat diakses melalui antarmuka analisis, memberikan institusi pendidikan pemahaman yang lebih baik tentang sejauh mana kurikulum mereka memenuhi tuntutan industri. Selain manfaat langsung bagi institusi pendidikan, proyek ini juga menjadi kesempatan untuk mengembangkan dan mengasah keahlian dalam pengembangan React Native. Penggunaan teknologi ini memungkinkan pengembangan aplikasi yang dapat diakses oleh pengguna Android dan iOS, sambil memberikan fleksibilitas dan efisiensi dalam proses pengembangan.
+D. Sumber Data : Aplikasi Tracer Study dengan Sistem Informasi Geografis (SIG) di atas, Anda akan memerlukan beberapa sumber data yang relevan. Berikut adalah beberapa sumber data yang dapat digunakan untuk mendukung fungsionalitas aplikasi Tracer Study dengan fokus pada lokasi geografis:
+
+Data Alumni:
+
+Informasi pribadi seperti nama, alamat, dan kontak.
+Data akademis termasuk program studi, tahun lulus, dan prestasi akademis.
+Detail pekerjaan saat ini atau sebelumnya, termasuk nama perusahaan, posisi, dan industri.
+Data Pekerjaan dan Industri:
+
+Informasi tentang perusahaan atau organisasi, termasuk lokasi geografisnya.
+Data industri yang mungkin melibatkan klasifikasi berdasarkan sektor ekonomi.
+Deskripsi pekerjaan dan tanggung jawab yang dapat membantu dalam pemetaan keahlian.
+Data Lokasi:
+
+Data geografis yang mencakup lokasi kampus, lokasi alumni, dan tempat-tempat di mana mereka bekerja.
+Peta kota atau wilayah yang menunjukkan distribusi alumni.
+Data Survei:
+
+Hasil survei periodik yang mencakup pertanyaan tentang lokasi, mobilitas geografis, dan kesesuaian antara pendidikan dan pekerjaan.
+Data Statistik Pekerjaan:
+
+Statistik pekerjaan dan keadaan pasar kerja di daerah atau industri tertentu.
+Data upah dan tingkat pekerjaan untuk berbagai profesi.
+Data GIS dan Peta:
+
+Peta wilayah yang mencakup batas administratif, infrastruktur, dan elemen geografis lainnya.
+Data SIG yang mendukung fungsionalitas pemetaan, seperti koordinat geografis alumni dan lokasi pekerjaan.
+Data Historis:
+
+Data historis tentang tren pekerjaan dan perekonomian di daerah tertentu.
+Data historis perkembangan karir alumni dari survei sebelumnya.
+Data Skill dan Keahlian:
+
+Informasi tentang keterampilan khusus yang dimiliki alumni, yang dapat membantu dalam mengidentifikasi tren dan kebutuhan pasar kerja.
+Data Ekonomi Daerah:
+
+Informasi ekonomi daerah yang dapat memengaruhi peluang pekerjaan, pertumbuhan industri, dan kesejahteraan ekonomi.
+Data Kepuasan Alumni:
+
+Hasil survei kepuasan alumni terhadap pendidikan yang mereka terima.
+Umpan balik yang dapat membantu dalam perbaikan kurikulum dan layanan pendidikan.
+
+
+![Screenshot 2023-12-05 005233](https://github.com/hajir123/pgpbl-12/assets/112599351/adbfd8a1-5593-4dd3-a3b6-e9328d1d4c54)
+
